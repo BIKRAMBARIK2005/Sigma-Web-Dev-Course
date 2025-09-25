@@ -1,0 +1,13 @@
+td {
+    border: 2px solid black;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(0, 255, 102);
+}
+body
+{
+    background-color: rgb(16, 180, 192);
+}

@@ -1,0 +1,1 @@
+alert("This website is very harmful for your device!!!")
