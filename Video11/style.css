@@ -1,0 +1,35 @@
+thead
+{
+    background-color: red;
+}
+nav{
+    background-color: green;
+}
+aside{
+    background-color: bisque;
+}
+main{
+    background-color: aquamarine;
+}
+article{
+    background-color: aqua;
+}
+figure{
+    background-color: antiquewhite;
+}
+section{
+    background-color: blue;
+}
+footer{
+    background-color: blueviolet;
+}
+th{
+    background-color: red;
+}
+tr{
+    background-color: brown;
+}
+tbody
+{
+    background-color: darkgreen;
+}
