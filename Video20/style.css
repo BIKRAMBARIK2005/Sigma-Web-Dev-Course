@@ -1,0 +1,17 @@
+/* Style the first paragraph inside the div */
+div p:first-child {
+    background-color: yellow;
+    color: red;
+}
+
+/* Style all other paragraphs inside the div */
+div p:not(:first-child) {
+    background-color: blue;
+    color: white;
+}
+
+/* Optional: Add some padding and margin for better appearance */
+div p {
+    padding: 10px;
+    margin: 5px 0;
+}
