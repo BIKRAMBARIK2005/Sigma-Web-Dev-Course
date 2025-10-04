@@ -1,1 +1,0 @@
-alert("This website may be harmful for your PC!!!")
